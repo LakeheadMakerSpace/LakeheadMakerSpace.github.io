@@ -1,4 +1,4 @@
 # Lakehead Makerspace Website
 
-www.LakeheadMakerspace.github.io
+LakeheadMakerspace.github.io
 
